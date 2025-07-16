@@ -2,6 +2,8 @@
 
 # 👋 ¡Hola! Soy Nelson Correa
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Full+Stack+Developer;Especialista+en+Backend;Estudiante+de+Ingenier%C3%ADa;Creando+soluciones+innovadoras)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of)
@@ -46,6 +48,7 @@ estado: "Buscando primera oportunidad profesional"
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -68,6 +71,9 @@ estado: "Buscando primera oportunidad profesional"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ---
 
@@ -85,6 +91,16 @@ estado: "Buscando primera oportunidad profesional"
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jak3of&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jak3of&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
+
+![Snake animation](https://github.com/Jak3of/Jak3of/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 🏅 Logros de GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jak3of&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -179,6 +195,10 @@ estado: "Buscando primera oportunidad profesional"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jak3of-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of)
 [![Email](https://img.shields.io/badge/Email-nelsonc897@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonc897@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+![](https://img.shields.io/github/followers/Jak3of?label=Seguidores&style=social)
+![](https://img.shields.io/github/stars/Jak3of?label=Estrellas&style=social)
 
 ⭐ **¡Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios!** ⭐
 
