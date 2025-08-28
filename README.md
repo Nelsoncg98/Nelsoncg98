@@ -115,15 +115,12 @@ estado: "Buscando primera oportunidad profesional"
 
 **Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
 
-<ul style="list-style-type:none;">
-
 🔹 **Características:**
-
+<ul style="list-style-type:none;">
 <li>Sistema de autenticación con roles de usuario</li>
 <li>Gestión completa de reservas y habitaciones</li>
 <li>Módulo de facturación y reportes detallados</li>
 <li>Generación automática de comprobantes</li>
-
 </ul>
 
 <div align="center">
@@ -147,20 +144,17 @@ estado: "Buscando primera oportunidad profesional"
 
 **Plataforma fullstack moderna para reservas de lavado de autos.**
 
-<ul style="list-style-type:none;">
-
 🔹 **Características:**
+<ul style="list-style-type:none;">
 <li>Frontend responsivo con React y Tailwind CSS</li>
 <li>Backend con Node.js y base de datos Turso (SQLite)</li>
 <li>Autenticación segura con JWT</li>
 <li>Panel de administración completo</li>
-
 </ul>
 
 <div align="center">
 
 [![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
-
 [![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
 
 </div>
@@ -180,14 +174,12 @@ estado: "Buscando primera oportunidad profesional"
 
 **Clon funcional de Instagram con arquitectura fullstack completa.**
 
-<ul style="list-style-type:none;">
-
 🔹 **Características:**
+<ul style="list-style-type:none;">
 <li>Frontend SPA con Angular y diseño responsive</li>
 <li>API REST robusta con Symfony</li>
 <li>Sistema completo de usuarios, posts y comentarios</li>
 <li>Autenticación con tokens y gestión de likes</li>
-
 </ul>
 
 <div align="center">
