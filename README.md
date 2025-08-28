@@ -36,8 +36,6 @@ estado: "Buscando primera oportunidad profesional"
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
-
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -77,8 +75,6 @@ estado: "Buscando primera oportunidad profesional"
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -92,7 +88,7 @@ estado: "Buscando primera oportunidad profesional"
 
 <div align="center">
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelsoncg98&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nelsoncg98&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
 
@@ -103,12 +99,10 @@ estado: "Buscando primera oportunidad profesional"
 ## 🏆 Proyectos Destacados
 
 ### 🏨 Sistema de Gestión Hotelera - Hotel Casa Andina
-<div align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-</div>
 
 **Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
 
@@ -118,19 +112,15 @@ estado: "Buscando primera oportunidad profesional"
 - Módulo de facturación y reportes detallados
 - Generación automática de comprobantes
 
-<div align="center">
 [![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/SistemaGestionHotelera)
-</div>
 
 ---
 
 ### 🚗 Car Wash App - Plataforma de Reservas
-<div align="center">
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-</div>
 
 **Plataforma fullstack moderna para reservas de lavado de autos.**
 
@@ -140,20 +130,16 @@ estado: "Buscando primera oportunidad profesional"
 - Autenticación segura con JWT
 - Panel de administración completo
 
-<div align="center">
 [![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
 [![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
-</div>
 
 ---
 
 ### 📸 Instagram Clone - Red Social Completa
-<div align="center">
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-</div>
 
 **Clon funcional de Instagram con arquitectura fullstack completa.**
 
@@ -163,10 +149,8 @@ estado: "Buscando primera oportunidad profesional"
 - Sistema completo de usuarios, posts y comentarios
 - Autenticación con tokens y gestión de likes
 
-<div align="center">
 [![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-Frontend)
 [![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-API)
-</div>
 
 ---
 
