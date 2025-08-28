@@ -105,12 +105,15 @@ estado: "Buscando primera oportunidad profesional"
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 **Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
+<div align="start">
 
 🔹 **Características:**
-Sistema de autenticación con roles de usuario
-Gestión completa de reservas y habitaciones
-Módulo de facturación y reportes detallados
-Generación automática de comprobantes
+- Sistema de autenticación con roles de usuario
+- Gestión completa de reservas y habitaciones
+- Módulo de facturación y reportes detallados
+- Generación automática de comprobantes
+
+</div>
 
 [![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/SistemaGestionHotelera)
 
@@ -124,11 +127,15 @@ Generación automática de comprobantes
 
 **Plataforma fullstack moderna para reservas de lavado de autos.**
 
+<div align="start">
+
 🔹 **Características:**
-Frontend responsivo con React y Tailwind CSS
-Backend con Node.js y base de datos Turso (SQLite)
-Autenticación segura con JWT
-Panel de administración completo
+- Frontend responsivo con React y Tailwind CSS
+- Backend con Node.js y base de datos Turso (SQLite)
+- Autenticación segura con JWT
+- Panel de administración completo
+
+</div>
 
 [![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
 [![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
@@ -143,11 +150,15 @@ Panel de administración completo
 
 **Clon funcional de Instagram con arquitectura fullstack completa.**
 
+<div align="start">
+
 🔹 **Características:**
-Frontend SPA con Angular y diseño responsive
-API REST robusta con Symfony
-Sistema completo de usuarios, posts y comentarios
-Autenticación con tokens y gestión de likes
+- Frontend SPA con Angular y diseño responsive
+- API REST robusta con Symfony
+- Sistema completo de usuarios, posts y comentarios
+- Autenticación con tokens y gestión de likes
+
+</div>
 
 [![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-Frontend)
 [![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-API)
