@@ -6,10 +6,10 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonc897@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Jak3of&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nelsoncg98&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
 
 </div>
 
@@ -81,18 +81,18 @@ estado: "Buscando primera oportunidad profesional"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jak3of&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak3of&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelsoncg98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelsoncg98&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jak3of&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelsoncg98&theme=dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jak3of&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nelsoncg98&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
 
-![Snake animation](https://github.com/Jak3of/Jak3of/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nelsoncg98/Nelsoncg98/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -100,7 +100,7 @@ estado: "Buscando primera oportunidad profesional"
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jak3of&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nelsoncg98&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -122,7 +122,7 @@ estado: "Buscando primera oportunidad profesional"
 - Módulo de facturación y reportes detallados
 - Generación automática de comprobantes
 
-[![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of/SistemaGestionHotelera)
+[![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/SistemaGestionHotelera)
 
 ---
 
@@ -140,8 +140,8 @@ estado: "Buscando primera oportunidad profesional"
 - Autenticación segura con JWT
 - Panel de administración completo
 
-[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of/CarWash-Frontend)
-[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of/CarWash-Backend)
+[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
+[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
 
 ---
 
@@ -159,8 +159,8 @@ estado: "Buscando primera oportunidad profesional"
 - Sistema completo de usuarios, posts y comentarios
 - Autenticación con tokens y gestión de likes
 
-[![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of/Instagram-Frontend)
-[![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of/Instagram-API)
+[![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-Frontend)
+[![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-API)
 
 ---
 
@@ -193,12 +193,12 @@ estado: "Buscando primera oportunidad profesional"
 ### 🤝 ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jak3of-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jak3of)
+[![GitHub](https://img.shields.io/badge/GitHub-Nelsoncg98-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
 [![Email](https://img.shields.io/badge/Email-nelsonc897@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonc897@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-![](https://img.shields.io/github/followers/Jak3of?label=Seguidores&style=social)
-![](https://img.shields.io/github/stars/Jak3of?label=Estrellas&style=social)
+![](https://img.shields.io/github/followers/Nelsoncg98?label=Seguidores&style=social)
+![](https://img.shields.io/github/stars/Nelsoncg98?label=Estrellas&style=social)
 
 ⭐ **¡Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios!** ⭐
 
