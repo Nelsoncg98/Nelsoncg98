@@ -36,6 +36,8 @@ estado: "Buscando primera oportunidad profesional"
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,6 +77,8 @@ estado: "Buscando primera oportunidad profesional"
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -99,69 +103,99 @@ estado: "Buscando primera oportunidad profesional"
 ## 🏆 Proyectos Destacados
 
 ### 🏨 Sistema de Gestión Hotelera - Hotel Casa Andina
+
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
-**Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
-<div align="start">
-
-🔹 **Características:**
-- Sistema de autenticación con roles de usuario
-- Gestión completa de reservas y habitaciones
-- Módulo de facturación y reportes detallados
-- Generación automática de comprobantes
-
 </div>
 
+**Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
+
+<ul style="list-style-type:none;">
+
+🔹 **Características:**
+
+<li>Sistema de autenticación con roles de usuario</li>
+<li>Gestión completa de reservas y habitaciones</li>
+<li>Módulo de facturación y reportes detallados</li>
+<li>Generación automática de comprobantes</li>
+
+</ul>
+
+<div align="center">
+
 [![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/SistemaGestionHotelera)
+
+</div>
 
 ---
 
 ### 🚗 Car Wash App - Plataforma de Reservas
+
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 
-**Plataforma fullstack moderna para reservas de lavado de autos.**
-
-<div align="start">
-
-🔹 **Características:**
-- Frontend responsivo con React y Tailwind CSS
-- Backend con Node.js y base de datos Turso (SQLite)
-- Autenticación segura con JWT
-- Panel de administración completo
-
 </div>
 
+**Plataforma fullstack moderna para reservas de lavado de autos.**
+
+<ul style="list-style-type:none;">
+
+🔹 **Características:**
+<li>Frontend responsivo con React y Tailwind CSS</li>
+<li>Backend con Node.js y base de datos Turso (SQLite)</li>
+<li>Autenticación segura con JWT</li>
+<li>Panel de administración completo</li>
+
+</ul>
+
+<div align="center">
+
 [![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
+
 [![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
+
+</div>
 
 ---
 
 ### 📸 Instagram Clone - Red Social Completa
+
+<div align="center">
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
+</div>
+
 **Clon funcional de Instagram con arquitectura fullstack completa.**
 
-<div align="start">
+<ul style="list-style-type:none;">
 
 🔹 **Características:**
-- Frontend SPA con Angular y diseño responsive
-- API REST robusta con Symfony
-- Sistema completo de usuarios, posts y comentarios
-- Autenticación con tokens y gestión de likes
+<li>Frontend SPA con Angular y diseño responsive</li>
+<li>API REST robusta con Symfony</li>
+<li>Sistema completo de usuarios, posts y comentarios</li>
+<li>Autenticación con tokens y gestión de likes</li>
 
-</div>
+</ul>
+
+<div align="center">
 
 [![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-Frontend)
 [![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-API)
+
+</div>
 
 ---
 
@@ -169,19 +203,19 @@ estado: "Buscando primera oportunidad profesional"
 
 ```yaml
 🚀 Carrera:
-  Conseguir primera experiencia profesional como desarrollador
-  Especializarme en arquitecturas cloud (AWS/Azure)
-  Contribuir a proyectos open source relevantes
+  - Conseguir primera experiencia profesional como desarrollador
+  - Especializarme en arquitecturas cloud (AWS/Azure)
+  - Contribuir a proyectos open source relevantes
 
 📚 Educación:
-  Graduarme en Ingeniería de Sistemas e Informática
-  Obtener certificaciones en tecnologías cloud
-  Dominar Docker y Kubernetes
+  - Graduarme en Ingeniería de Sistemas e Informática
+  - Obtener certificaciones en tecnologías cloud
+  - Dominar Docker y Kubernetes
 
 🛠️ Técnico:
-  Profundizar en microservicios
-  Aprender DevOps y CI/CD
-  Mejorar habilidades en testing automatizado
+  - Profundizar en microservicios
+  - Aprender DevOps y CI/CD
+  - Mejorar habilidades en testing automatizado
 ```
 
 ---
