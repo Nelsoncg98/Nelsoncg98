@@ -92,17 +92,7 @@ estado: "Buscando primera oportunidad profesional"
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nelsoncg98&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
 
-![Snake animation](https://github.com/Nelsoncg98/Nelsoncg98/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-## 🏅 Logros de GitHub
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nelsoncg98&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
