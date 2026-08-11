@@ -79,12 +79,15 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
-<div align="center">
 ---
 
 ## 🏆 Proyectos Destacados
 
+<div align="center">
+
 ### 🏨 Sistema de Gestión Hotelera - Hotel Casa Andina
+
+</div>
 
 <div align="center">
 
@@ -95,15 +98,20 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
+<div align="center">
+
 **Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
 
 🔹 **Características:**
+
 | | |
 | :--- | :--- |
 | 🔹 | Sistema de autenticación con roles de usuario |
 | 🔹 | Gestión completa de reservas y habitaciones |
 | 🔹 | Módulo de facturación y reportes detallados |
 | 🔹 | Generación automática de comprobantes |
+
+</div>
 
 <div align="center">
 
@@ -113,7 +121,11 @@ estado: "Buscando primera oportunidad profesional"
 
 ---
 
+<div align="center">
+
 ### 🚗 Car Wash App - Plataforma de Reservas
+
+</div>
 
 <div align="center">
 
@@ -124,15 +136,20 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
+<div align="center">
+
 **Plataforma fullstack moderna para reservas de lavado de autos.**
 
 🔹 **Características:**
+
 | | |
 | :--- | :--- |
 | 🔹 | Frontend responsivo con React y Tailwind CSS |
 | 🔹 | Backend con Node.js y base de datos Turso (SQLite) |
 | 🔹 | Autenticación segura con JWT |
 | 🔹 | Panel de administración completo |
+
+</div>
 
 <div align="center">
 
@@ -143,7 +160,11 @@ estado: "Buscando primera oportunidad profesional"
 
 ---
 
+<div align="center">
+
 ### 📸 Instagram Clone - Red Social Completa
+
+</div>
 
 <div align="center">
 
@@ -154,15 +175,20 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
+<div align="center">
+
 **Clon funcional de Instagram con arquitectura fullstack completa.**
 
 🔹 **Características:**
+
 | | |
 | :--- | :--- |
 | 🔹 | Frontend SPA con Angular y diseño responsive |
 | 🔹 | API REST robusta con Symfony |
 | 🔹 | Sistema completo de usuarios, posts y comentarios |
 | 🔹 | Autenticación con tokens y gestión de likes |
+
+</div>
 
 <div align="center">
 
@@ -174,6 +200,8 @@ estado: "Buscando primera oportunidad profesional"
 ---
 
 ## 🎯 Objetivos 2025
+
+<div align="center">
 
 ```yaml
 🚀 Carrera:
@@ -191,6 +219,8 @@ estado: "Buscando primera oportunidad profesional"
   - Aprender DevOps y CI/CD
   - Mejorar habilidades en testing automatizado
 ```
+
+</div>
 
 ---
 
