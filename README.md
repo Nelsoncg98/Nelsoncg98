@@ -79,7 +79,7 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
-
+<div align="center">
 ---
 
 ## 🏆 Proyectos Destacados
