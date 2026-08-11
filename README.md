@@ -90,14 +90,6 @@ estado: "Buscando primera oportunidad profesional"
 
 </div>
 
-<div align="center">
-
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nelsoncg98&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
-
-
-
 ---
 
 ## 🏆 Proyectos Destacados
