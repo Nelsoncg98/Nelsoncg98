@@ -7,7 +7,6 @@
 *Lima, Perú*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nelsoncg98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
 [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsoncorreag98@gmail.com)
 
 </div>
