@@ -1,250 +1,86 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Nelson Correa
+# 👋 Nelson Correa
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Full+Stack+Developer;Especialista+en+Backend;Estudiante+de+Ingenier%C3%ADa;Creando+soluciones+innovadoras)
+**Software Developer | Backend & Systems**  
+*Lima, Perú*
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonc897@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Nelsoncg98&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nelsoncg98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsoncorreag98@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 📌 Sobre mí
 
-```yaml
-nombre: "Nelson Correa"
-rol: "Desarrollador de Software"
-ubicacion: "Perú 🇵🇪"
-educacion: "Ingeniería de Sistemas e Informática - UTP"
-especializacion: "Full Stack Developer (Backend especializado)"
-estado: "Buscando primera oportunidad profesional"
-```
+Estudiante de **Ingeniería de Sistemas e Informática (9no ciclo - UTP)** con sólido enfoque en desarrollo **Backend**, arquitectura de software y optimización de sistemas.
 
-- 🎓 **Estudiante** de Ingeniería de Sistemas e Informática en la **Universidad Tecnológica del Perú (UTP)**
-- 💻 **Especialista** en desarrollo de aplicaciones web con enfoque en **Backend**
-- 🛠️ **Experiencia** en sistemas CRUD, APIs REST, bases de datos y arquitectura de software
-- 🎯 **Objetivo:** Crecer en entornos profesionales y contribuir a proyectos innovadores
-- ⚡ **Filosofía:** Código limpio, eficiente y mantenible
+- ⚙️ **Especialidad:** APIs de alto rendimiento, concurrencia, gestión eficiente de memoria/recursos y streaming en tiempo real.
+- 💡 **Intereses:** Infraestructura local de IA (LLMs), microservicios, optimización a bajo nivel y bases de datos.
+- 🎯 **Enfoque:** Código limpio, mantenible, con mínima deuda técnica y cero dependencias innecesarias.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### ⚡ [Simple Llama](https://github.com/Nelsoncg98/simple-llama)
+> **Orquestador local ultra-ligero para inferencia de LLMs con llama.cpp en Windows (aceleración CUDA).**
+
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Nelsoncg98/simple-llama)
+[![llama.cpp](https://img.shields.io/badge/backend-llama.cpp%20CUDA-green?style=flat-square)](https://github.com/Nelsoncg98/simple-llama)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](https://github.com/Nelsoncg98/simple-llama/blob/main/LICENSE)
+[![Dependencies](https://img.shields.io/badge/Dependencies-0%20(Pure%20Stdlib)-success?style=flat-square)](https://github.com/Nelsoncg98/simple-llama)
+
+</div>
+
+- **Cero dependencias:** Desarrollado 100% sobre la librería estándar de Python (`http.server`, `socketserver`, `threading`).
+- **Servidor HTTP Concurrente:** Arquitectura multihilo para evitar bloqueos durante el streaming de tokens (SSE).
+- **Watchdog de VRAM:** Auto-descarga de GPU a 0 MB tras 10 minutos de inactividad para reposo total del hardware.
+- **Poda de Memoria Física (`EmptyWorkingSet`):** Reduce el consumo de RAM del sistema a <40 MB (frente a los 2.5–3 GB de alternativas tradicionales).
+- **Control de Privacidad LAN:** Conmutador persistente de red local con firewall para permitir acceso seguro desde dispositivos Wi-Fi (tablets, móviles).
+- **Compatibilidad Universal:** Expone una API compatible con OpenAI (`/v1`) y Ollama para clientes como OpenCode, Zed y Open WebUI.
+
+👉 **[Ver Repositorio en GitHub ↗](https://github.com/Nelsoncg98/simple-llama)**
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
-
 ### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend & Arquitectura
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-
-### 🏨 Sistema de Gestión Hotelera - Hotel Casa Andina
-
-</div>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**Aplicación de escritorio completa con arquitectura MVC para gestión integral de hoteles.**
-
-🔹 **Características:**
-
-| | |
-| :--- | :--- |
-| 🔹 | Sistema de autenticación con roles de usuario |
-| 🔹 | Gestión completa de reservas y habitaciones |
-| 🔹 | Módulo de facturación y reportes detallados |
-| 🔹 | Generación automática de comprobantes |
-
-</div>
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/SistemaGestionHotelera)
+### Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_/_WSL2-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🚗 Car Wash App - Plataforma de Reservas
-
-</div>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**Plataforma fullstack moderna para reservas de lavado de autos.**
-
-🔹 **Características:**
-
-| | |
-| :--- | :--- |
-| 🔹 | Frontend responsivo con React y Tailwind CSS |
-| 🔹 | Backend con Node.js y base de datos Turso (SQLite) |
-| 🔹 | Autenticación segura con JWT |
-| 🔹 | Panel de administración completo |
-
-</div>
-
-<div align="center">
-
-[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Frontend)
-[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/CarWash-Backend)
-
-</div>
-
----
-
-<div align="center">
-
-### 📸 Instagram Clone - Red Social Completa
-
-</div>
-
-<div align="center">
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**Clon funcional de Instagram con arquitectura fullstack completa.**
-
-🔹 **Características:**
-
-| | |
-| :--- | :--- |
-| 🔹 | Frontend SPA con Angular y diseño responsive |
-| 🔹 | API REST robusta con Symfony |
-| 🔹 | Sistema completo de usuarios, posts y comentarios |
-| 🔹 | Autenticación con tokens y gestión de likes |
-
-</div>
-
-<div align="center">
-
-[![Frontend](https://img.shields.io/badge/Frontend_Angular-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-Frontend)
-[![API](https://img.shields.io/badge/API_Symfony-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98/Instagram-API)
-
-</div>
-
----
-
-## 🎯 Objetivos 2025
-
-<div align="center">
-
-```yaml
-🚀 Carrera:
-  - Conseguir primera experiencia profesional como desarrollador
-  - Especializarme en arquitecturas cloud (AWS/Azure)
-  - Contribuir a proyectos open source relevantes
-
-📚 Educación:
-  - Graduarme en Ingeniería de Sistemas e Informática
-  - Obtener certificaciones en tecnologías cloud
-  - Dominar Docker y Kubernetes
-
-🛠️ Técnico:
-  - Profundizar en microservicios
-  - Aprender DevOps y CI/CD
-  - Mejorar habilidades en testing automatizado
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Frase del día
-*"La mejor manera de predecir el futuro es creándolo."* - **Peter Drucker**
-
-### 🤝 ¡Conectemos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nelsoncg98-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelsoncg98)
-[![Email](https://img.shields.io/badge/Email-nelsonc897@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonc897@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-![](https://img.shields.io/github/followers/Nelsoncg98?label=Seguidores&style=social)
-![](https://img.shields.io/github/stars/Nelsoncg98?label=Estrellas&style=social)
-
-⭐ **¡Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios!** ⭐
-
-</div>
-
----
-
-<div align="center">
-<sub>💻 Desarrollado con ❤️ por Nelson Correa</sub>
+<sub>© 2026 Nelson Correa • Código limpio y soluciones eficientes</sub>
 </div>
