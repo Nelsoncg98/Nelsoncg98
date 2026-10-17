@@ -2,7 +2,8 @@
 
 # 👋 Nelson Correa
 
-**Software Developer | Backend & Systems**  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Systems+%26+Software+Engineering+Student;Backend+Developer;Local+AI+Tools+%26+LLM+Infrastructure;Clean+Code+%26+Resource+Optimization)
+
 *Lima, Perú*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-correa98/)
